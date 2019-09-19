@@ -1,1 +1,2 @@
 <?php
+$d = "hello word";
